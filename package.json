@@ -1,5 +1,6 @@
 {
-  "name": "com.chkuang-g.test",
+  "repository": "chkuang-g/npm-test",
+  "name": "com.chkuang-g.npm-test",
   "version": "0.0.1",
   "displayName": "Just a test",
   "description": "Desc: Just a test",
