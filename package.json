@@ -1,11 +1,9 @@
 {
-  "repository": "chkuang-g/npm-test",
-  "name": "com.chkuang-g.npm-test",
-  "version": "0.0.1",
-  "displayName": "Just a test",
+  "name": "@chkuang-g/npm-test",
+  "version": "0.0.3",
+  "displayName": "AAA: Just a test",
   "description": "Desc: Just a test",
-  "unity": "5",
-  "unityRelease": "0f1",
+  "unity": "2018.3",
   "dependencies": {},
   "keywords": [
     "just",
@@ -18,7 +16,11 @@
   },
   "customFieldArray" : [
     "data1",
-    "data2",
+    "data2"
   ],
-  "customFieldString" : "data-string"
+  "customFieldString" : "data-string",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chkuang-g/npm-test.git"
+  }
 }
