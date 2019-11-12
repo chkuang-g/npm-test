@@ -1,0 +1,23 @@
+{
+  "name": "com.chkuang-g.test",
+  "version": "0.0.1",
+  "displayName": "Just a test",
+  "description": "Desc: Just a test",
+  "unity": "5",
+  "unityRelease": "0f1",
+  "dependencies": {},
+  "keywords": [
+    "just",
+    "test"
+  ],
+  "author": {
+    "name": "chkuang-g",
+    "email": "chkuang-g@users.noreply.github.com",
+    "url": "https://github.com/chkuang-g"
+  },
+  "customFieldArray" : [
+    "data1",
+    "data2",
+  ],
+  "customFieldString" : "data-string"
+}
