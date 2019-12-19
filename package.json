@@ -1,8 +1,8 @@
 {
-  "name": "@chkuang-g/npm-test",
-  "version": "0.0.3",
-  "displayName": "AAA: Just a test",
-  "description": "Desc: Just a test",
+  "name": "com.chkuang.npm-test",
+  "version": "1.0.2",
+  "displayName": "AAAAA",
+  "description": "Formal description",
   "unity": "2018.3",
   "dependencies": {},
   "keywords": [
@@ -14,11 +14,6 @@
     "email": "chkuang-g@users.noreply.github.com",
     "url": "https://github.com/chkuang-g"
   },
-  "customFieldArray" : [
-    "data1",
-    "data2"
-  ],
-  "customFieldString" : "data-string",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/chkuang-g/npm-test.git"
