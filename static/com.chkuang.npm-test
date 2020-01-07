@@ -1,0 +1,244 @@
+{
+  "name": "com.chkuang.npm-test",
+  "versions": {
+    "0.0.3": {
+      "name": "com.chkuang.npm-test",
+      "version": "0.0.3",
+      "displayName": "AAA: Just a test",
+      "description": "Desc: Just a test",
+      "unity": "2018.3",
+      "dependencies": {},
+      "keywords": [
+        "just",
+        "test"
+      ],
+      "author": {
+        "name": "chkuang-g",
+        "email": "chkuang-g@users.noreply.github.com",
+        "url": "https://github.com/chkuang-g"
+      },
+      "customFieldArray": [
+        "data1",
+        "data2"
+      ],
+      "customFieldString": "data-string",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/chkuang-g/npm-test.git"
+      },
+      "readmeFilename": "README.md",
+      "gitHead": "2d5adcd1271c0bbf916b16786a15da5fc755a910",
+      "bugs": {
+        "url": "https://github.com/chkuang-g/npm-test/issues"
+      },
+      "homepage": "https://github.com/chkuang-g/npm-test#readme",
+      "_id": "com.chkuang.npm-test@0.0.3",
+      "_nodeVersion": "12.13.1",
+      "_npmVersion": "6.13.2",
+      "dist": {
+        "integrity": "sha512-sS3YMOjctQfQbYn0VlimmHJkM+pl33RsyagV8GC5Fnxa0HC/iiinmtmVy4rkpqORtCEXNULRG5fdqKbYzKMRCg==",
+        "shasum": "081ab3e4edb16a63ade063ecc45d6a595e9e70ed",
+        "tarball": "http://localhost:4322/com.chkuang.npm-test/-/com.chkuang.npm-test-0.0.3.tgz"
+      },
+      "contributors": []
+    },
+    "0.1.0": {
+      "name": "com.chkuang.npm-test",
+      "version": "0.1.0",
+      "displayName": "AAAAA",
+      "description": "DDDDD",
+      "unity": "2018.3",
+      "dependencies": {},
+      "keywords": [
+        "just",
+        "test"
+      ],
+      "author": {
+        "name": "chkuang-g",
+        "email": "chkuang-g@users.noreply.github.com",
+        "url": "https://github.com/chkuang-g"
+      },
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/chkuang-g/npm-test.git"
+      },
+      "readmeFilename": "README.md",
+      "gitHead": "2d5adcd1271c0bbf916b16786a15da5fc755a910",
+      "bugs": {
+        "url": "https://github.com/chkuang-g/npm-test/issues"
+      },
+      "homepage": "https://github.com/chkuang-g/npm-test#readme",
+      "_id": "com.chkuang.npm-test@0.1.0",
+      "_nodeVersion": "12.13.1",
+      "_npmVersion": "6.13.2",
+      "dist": {
+        "integrity": "sha512-xOEq2xlkv4laYt+d31AZYZjTEqdZSEePDRnK65YZhy2TLfgP6TtAoQzqZ5rbklSb9YiojcSWFADtGSDlyJJiJw==",
+        "shasum": "26dfc5eea49214e94606c110f2ccd6e0a5460cab",
+        "tarball": "http://localhost:4322/com.chkuang.npm-test/-/com.chkuang.npm-test-0.1.0.tgz"
+      },
+      "contributors": []
+    },
+    "0.1.2": {
+      "name": "com.chkuang.npm-test",
+      "version": "0.1.2",
+      "displayName": "AAAAA",
+      "description": "Formal description",
+      "unity": "2018.3",
+      "dependencies": {},
+      "keywords": [
+        "just",
+        "test"
+      ],
+      "author": {
+        "name": "chkuang-g",
+        "email": "chkuang-g@users.noreply.github.com",
+        "url": "https://github.com/chkuang-g"
+      },
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/chkuang-g/npm-test.git"
+      },
+      "readmeFilename": "README.md",
+      "gitHead": "2d5adcd1271c0bbf916b16786a15da5fc755a910",
+      "bugs": {
+        "url": "https://github.com/chkuang-g/npm-test/issues"
+      },
+      "homepage": "https://github.com/chkuang-g/npm-test#readme",
+      "_id": "com.chkuang.npm-test@0.1.2",
+      "_nodeVersion": "12.13.1",
+      "_npmVersion": "6.13.2",
+      "dist": {
+        "integrity": "sha512-XQt+j3piHIFvDXP+EZxFI9vz3hrbKOwyPgnnUAafdS5hSIOF6UdMVZLnTlWY+kOpdVYYWFia2Rz3uqlVLOg12g==",
+        "shasum": "38ceab0430e9667c72472d9cff9d05a497278eac",
+        "tarball": "http://localhost:4322/com.chkuang.npm-test/-/com.chkuang.npm-test-0.1.2.tgz"
+      },
+      "contributors": []
+    },
+    "1.0.0": {
+      "name": "com.chkuang.npm-test",
+      "version": "1.0.0",
+      "displayName": "AAAAA",
+      "description": "Formal description",
+      "unity": "2018.3",
+      "dependencies": {},
+      "keywords": [
+        "just",
+        "test"
+      ],
+      "author": {
+        "name": "chkuang-g",
+        "email": "chkuang-g@users.noreply.github.com",
+        "url": "https://github.com/chkuang-g"
+      },
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/chkuang-g/npm-test.git"
+      },
+      "readmeFilename": "README.md",
+      "gitHead": "2d5adcd1271c0bbf916b16786a15da5fc755a910",
+      "bugs": {
+        "url": "https://github.com/chkuang-g/npm-test/issues"
+      },
+      "homepage": "https://github.com/chkuang-g/npm-test#readme",
+      "_id": "com.chkuang.npm-test@1.0.0",
+      "_nodeVersion": "12.13.1",
+      "_npmVersion": "6.13.2",
+      "dist": {
+        "integrity": "sha512-7NA35WG/p2Azp//h2PIi2xyl+mZIZOjCNgcAWCIFlpITufofPctKw+sUyC/VbMAZ3iJJ1G4dAMImwso3TXjGOg==",
+        "shasum": "00c2bf95c3798baf15e93fc581cf214e3ce877dc",
+        "tarball": "http://localhost:4322/com.chkuang.npm-test/-/com.chkuang.npm-test-1.0.0.tgz"
+      },
+      "contributors": []
+    },
+    "1.0.1-preview": {
+      "name": "com.chkuang.npm-test",
+      "version": "1.0.1-preview",
+      "displayName": "AAAAA",
+      "description": "Formal description",
+      "unity": "2018.3",
+      "dependencies": {},
+      "keywords": [
+        "just",
+        "test"
+      ],
+      "author": {
+        "name": "chkuang-g",
+        "email": "chkuang-g@users.noreply.github.com",
+        "url": "https://github.com/chkuang-g"
+      },
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/chkuang-g/npm-test.git"
+      },
+      "readmeFilename": "README.md",
+      "gitHead": "2d5adcd1271c0bbf916b16786a15da5fc755a910",
+      "bugs": {
+        "url": "https://github.com/chkuang-g/npm-test/issues"
+      },
+      "homepage": "https://github.com/chkuang-g/npm-test#readme",
+      "_id": "com.chkuang.npm-test@1.0.1-preview",
+      "_nodeVersion": "12.13.1",
+      "_npmVersion": "6.13.2",
+      "dist": {
+        "integrity": "sha512-lWzM9cu35USOHvnzk9R2pAj5DmaOYuQt6x8lMVLyyW5kK0Q5L+6qDGg+pIjyVTSoFwMUzXnCuQOUyJuUT6eqmg==",
+        "shasum": "8e9d50fe6cf94ca173bb8ba561246136300c4419",
+        "tarball": "http://localhost:4322/com.chkuang.npm-test/-/com.chkuang.npm-test-1.0.1-preview.tgz"
+      },
+      "contributors": []
+    },
+    "1.0.2": {
+      "name": "com.chkuang.npm-test",
+      "version": "1.0.2",
+      "displayName": "AAAAA",
+      "description": "Formal description",
+      "unity": "2018.3",
+      "dependencies": {},
+      "keywords": [
+        "just",
+        "test"
+      ],
+      "author": {
+        "name": "chkuang-g",
+        "email": "chkuang-g@users.noreply.github.com",
+        "url": "https://github.com/chkuang-g"
+      },
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/chkuang-g/npm-test.git"
+      },
+      "readmeFilename": "README.md",
+      "gitHead": "2d5adcd1271c0bbf916b16786a15da5fc755a910",
+      "bugs": {
+        "url": "https://github.com/chkuang-g/npm-test/issues"
+      },
+      "homepage": "https://github.com/chkuang-g/npm-test#readme",
+      "_id": "com.chkuang.npm-test@1.0.2",
+      "_nodeVersion": "12.13.1",
+      "_npmVersion": "6.13.2",
+      "dist": {
+        "integrity": "sha512-H2V81NzbkfE2108XGB6eltkpUZbYy0OLGj8ImHXqK7oihbNX3HEMyXU7CKWlO85f96CzSq33udGzb7AjBm6vfw==",
+        "shasum": "4a562c1a16dc07277b4e27c3dc0ed49ca51a60e1",
+        "tarball": "http://localhost:4322/com.chkuang.npm-test/-/com.chkuang.npm-test-1.0.2.tgz"
+      },
+      "contributors": []
+    }
+  },
+  "time": {
+    "modified": "2019-12-19T20:05:48.300Z",
+    "created": "2019-12-05T18:47:42.561Z",
+    "0.0.3": "2019-12-05T18:47:42.561Z",
+    "0.1.0": "2019-12-05T18:57:11.768Z",
+    "0.1.2": "2019-12-05T19:11:48.212Z",
+    "1.0.0": "2019-12-18T19:41:38.506Z",
+    "1.0.1-preview": "2019-12-18T19:42:31.476Z",
+    "1.0.2": "2019-12-19T20:05:48.300Z"
+  },
+  "users": {},
+  "dist-tags": {
+    "latest": "1.0.2"
+  },
+  "_rev": "24-64a6e01feaa9e2ac",
+  "_id": "com.chkuang.npm-test",
+  "readme": "# npm-test",
+  "_attachments": {}
+}
